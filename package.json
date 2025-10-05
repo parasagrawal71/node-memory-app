@@ -1,12 +1,12 @@
 {
-  "name": "node-memory-app",
-  "version": "2.0.0",
-  "description": "A Node.js app with in-memory storage per user",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+    "name": "node-memory-app",
+    "version": "2.0.0",
+    "description": "A Node.js app with in-memory storage per user",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
 }
